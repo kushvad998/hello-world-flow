@@ -1,0 +1,54 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Ignore Qt Creator "user" files
+*.user
+*.user.*
+
+# QtCreator local machine specific files for imported projects
+*creator.user*
+
+# QtCreator CMake
+CMakeLists.txt.user*
+
+# QtCreator [autosave]
+*.autosave
+
+# IntelliJ Idea
+.idea
+
+# CMake auto-generated folder
+.cmake
+
+# Build folders
+build*/**
